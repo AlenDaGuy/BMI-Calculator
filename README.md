@@ -1,2 +1,2 @@
 # BMI-Calculator
-made a quick program to check your BMI
+Made a quick program to check your BMI!
