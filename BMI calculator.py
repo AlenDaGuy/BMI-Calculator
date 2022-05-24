@@ -1,0 +1,5 @@
+bmi_weight = float(weight)
+bmi_height= float(height)
+bmi= (bmi_weight/bmi_height**2)
+int_bmi = int(bmi)
+print(+ int_bmi)
